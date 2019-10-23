@@ -10,7 +10,7 @@ POST > /pet
 **************
 UPDATE > /pet/{petId}
 **************
-DELETE > /pet
+DELETE > /pet/{petId}
 **************
 Set up Instructions
 ==========================
@@ -22,5 +22,5 @@ Run poetry install
 **************
 Running Tests
 ==========================
-pytest or pytest -o log_cli=true --log-cli-level=DEBUGc
+pytest or pytest -o log_cli=true --log-cli-level=DEBUG
 **************
