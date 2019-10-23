@@ -1,0 +1,26 @@
+TradeIX Tech Test [Python]
+=========================
+
+.. contents:: Topics
+
+User can able to create following REST opration 
+==========================
+
+POST > /pet
+**************
+UPDATE > /pet/{petId}
+**************
+DELETE > /pet
+**************
+Set up Instructions
+==========================
+Install python Python 2.7.10
+**************
+Install poetry > curl -sSL https://raw.githubusercontent.com/sdispater/poetry/master/get-poetry.py | python
+**************
+Run poetry install
+**************
+Running Tests
+==========================
+pytest or pytest -o log_cli=true --log-cli-level=DEBUGc
+**************

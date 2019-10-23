@@ -1,0 +1,8 @@
+README.rst
+setup.py
+tradeix/__init__.py
+tradeix.egg-info/PKG-INFO
+tradeix.egg-info/SOURCES.txt
+tradeix.egg-info/dependency_links.txt
+tradeix.egg-info/requires.txt
+tradeix.egg-info/top_level.txt
