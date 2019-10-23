@@ -10,7 +10,7 @@ POST > /pet
 **************
 UPDATE > /pet/{petId}
 **************
-DELETE > /pet
+DELETE > /pet/{petId}
 **************
 Set up Instructions
 ==========================
