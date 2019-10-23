@@ -24,3 +24,5 @@ Running Tests
 ==========================
 pytest or pytest -o log_cli=true --log-cli-level=DEBUG
 **************
+
+![alt text](https://github.com/Jai-Gogineni/REST-Automation-with-python/blob/master/Results.png)
