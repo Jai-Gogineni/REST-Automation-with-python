@@ -1,4 +1,4 @@
-TradeIX Tech Test [Python]
+REST Automation [Python]
 =========================
 
 .. contents:: Topics
